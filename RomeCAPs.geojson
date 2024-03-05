@@ -3,7 +3,10 @@
   "features": [
     {
       "type": "Feature",
-      "properties": { "postalCode": "00138" },
+      "properties": {
+        "postalCode": "00138",
+        "name": "Casal Boccone, Castel Giubileo, Marcigliana, Tor San Giovanni, Val Melaina"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -117,7 +120,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00188" },
+      "properties": { "postalCode": "00188", "name": "Labaro" },
       "geometry": {
         "coordinates": [
           [
@@ -229,7 +232,10 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00187" },
+      "properties": {
+        "postalCode": "00187",
+        "name": "Trevi, Colonna, Campo Marzio, Ludovisi, Sallustiano"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -288,7 +294,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00192" },
+      "properties": { "postalCode": "00192", "name": "Prati, Trionfale" },
       "geometry": {
         "coordinates": [
           [
@@ -335,7 +341,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00195" },
+      "properties": { "postalCode": "00195", "name": "Della Vittoria" },
       "geometry": {
         "coordinates": [
           [
@@ -396,7 +402,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00196" },
+      "properties": { "postalCode": "00196", "name": "Flaminio, Parioli" },
       "geometry": {
         "coordinates": [
           [
@@ -473,7 +479,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00197" },
+      "properties": { "postalCode": "00197", "name": "Pinciano" },
       "geometry": {
         "coordinates": [
           [
@@ -566,7 +572,10 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00144" },
+      "properties": {
+        "postalCode": "00144",
+        "name": "Acilia Nord, Acilia Sud, Casal Palocco, Europa (EUR), Fonte Ostiense, Lido di Ostia Levante, Maccarese Sud, Mezzocammino, Ostiense, Tor di Valle, Torrino"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -681,7 +690,10 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00143" },
+      "properties": {
+        "postalCode": "00143",
+        "name": "Ardeatino, Castel di Decima, Castel di Leva, Cecchignola, Europa (EUR), Fonte Ostiense, Giuliano Dalmata, Mezzocammino, Torrino, Vallerano"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -793,7 +805,10 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00125" },
+      "properties": {
+        "postalCode": "00125",
+        "name": "Acilia Nord, Acilia Sud, Casal Palocco"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -905,7 +920,10 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00142" },
+      "properties": {
+        "postalCode": "00142",
+        "name": "Ardeatino, Europa (EUR), Ostiense"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -996,7 +1014,10 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00178" },
+      "properties": {
+        "postalCode": "00178",
+        "name": "Appio-Claudio, Fonte Ostiense"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -1108,7 +1129,10 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00179" },
+      "properties": {
+        "postalCode": "00179",
+        "name": "Tuscolano, Appio-Latino"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -1205,7 +1229,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00189" },
+      "properties": { "postalCode": "00189", "name": "Prima Porta" },
       "geometry": {
         "coordinates": [
           [
@@ -1318,7 +1342,10 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00148" },
+      "properties": {
+        "postalCode": "00148",
+        "name": "Europa (EUR), Suburbio Gianicolense, La Pisana, Magliana Vecchia, Ponte Galeria, Quartiere Portuense, Suburbio Portuense"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -1430,7 +1457,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00165" },
+      "properties": { "postalCode": "00165", "name": "Aurelio" },
       "geometry": {
         "coordinates": [
           [
@@ -1543,7 +1570,10 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00166" },
+      "properties": {
+        "postalCode": "00166",
+        "name": "Suburbio Aurelio, Castel di Guido, Casalotti"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -1655,7 +1685,10 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00136" },
+      "properties": {
+        "postalCode": "00136",
+        "name": "Quartiere Della Vittoria, Primavalle, Quartiere Trionfale"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -1738,7 +1771,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00163" },
+      "properties": { "postalCode": "00163", "name": "Suburbio Gianicolense" },
       "geometry": {
         "coordinates": [
           [
@@ -1850,7 +1883,10 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00139" },
+      "properties": {
+        "postalCode": "00139",
+        "name": "Casal Boccone, Castel Giubileo, Marcigliana, Monte Sacro, Monte Sacro Alto, Tor San Giovanni, Val Melaina"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -1962,12 +1998,10 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00123", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.3234816, 42.0230904], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00123" },
+      "properties": {
+        "postalCode": "00123",
+        "name": "Casalotti, Isola Farnese, La Giustiniana, La Storta"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -2079,12 +2113,10 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00128", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.4151335, 41.6999293], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00128" },
+      "properties": {
+        "postalCode": "00128",
+        "name": "Castel di Decima, Castel Porziano, Fonte Ostiense, Tor de' Cenci, Torrino, Valleranno"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -2199,7 +2231,10 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00133" },
+      "properties": {
+        "postalCode": "00133",
+        "name": "Borghesiana, Torre Angela, Torre Gaia, Torrenova"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -2311,7 +2346,10 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00135" },
+      "properties": {
+        "postalCode": "00135",
+        "name": "Quartiere Della Vittoria, Suburbio Della Vittoria, La Giustiniana, La Storta, Ottavia, Suburbio Portuense, Primavalle, Tomba di Nerone, Quartiere Trionfale, Suburbio Trionfale"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -2423,12 +2461,10 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00141", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.532671, 41.9391449], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00141" },
+      "properties": {
+        "postalCode": "00141",
+        "name": "Monte Sacro, Monte Sacro Alto, Trieste, Val Melaina"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -2506,12 +2542,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00118", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.6158803, 41.8199114], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00118" },
+      "properties": { "postalCode": "00118", "name": "Anagnina" },
       "geometry": {
         "coordinates": [
           [
@@ -2623,12 +2654,10 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00119", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.3063052, 41.7755359], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00119" },
+      "properties": {
+        "postalCode": "00119",
+        "name": "Acilia Nord, Casal Palocco, Ostia Antica"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -2740,12 +2769,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00120", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.4538215, 41.9026297], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00120" },
+      "properties": { "postalCode": "00120", "name": "Borgo" },
       "geometry": {
         "coordinates": [
           [
@@ -2778,12 +2802,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00121", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.2719604, 41.7400239], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00121" },
+      "properties": { "postalCode": "00121", "name": "Lido di Ostia Ponente" },
       "geometry": {
         "coordinates": [
           [
@@ -2881,12 +2900,10 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00122", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.297718, 41.7249729], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00122" },
+      "properties": {
+        "postalCode": "00122",
+        "name": "Acilia Sud, Casal Palocco, Castel Fusano, Castel Porziano, Europa (EUR), Lido di Castel Fusano, Lido di Ostia Levante, Mezzocammino"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -2998,12 +3015,10 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00124", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.334934, 41.7381063], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00124" },
+      "properties": {
+        "postalCode": "00124",
+        "name": "Casal Palocco, Castel Fusano, Castel Porziano, Lido di Castel Fusano"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -3115,17 +3130,10 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00125", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.3807553, 41.772343], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00126", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.3521148, 41.7901647], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00126" },
+      "properties": {
+        "postalCode": "00126",
+        "name": "Acilia Nord, Ostia Antica"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -3237,12 +3245,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00127", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.4179988, 41.7952246], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00127" },
+      "properties": { "postalCode": "00127", "name": "Mezzocammino" },
       "geometry": {
         "coordinates": [
           [
@@ -3340,12 +3343,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00129", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.4963655, 41.9027835], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00129" },
+      "properties": { "postalCode": "00129", "name": "Castel Porziano" },
       "geometry": {
         "coordinates": [
           [
@@ -3454,11 +3452,6 @@
         ],
         "type": "Polygon"
       }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00130", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.4963655, 41.9027835], "type": "Point" }
     },
     {
       "type": "Feature",
@@ -3574,12 +3567,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00131", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.6273621, 41.9457317], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00131" },
+      "properties": { "postalCode": "00131", "name": "Lunghezza, Settecamini" },
       "geometry": {
         "coordinates": [
           [
@@ -3691,12 +3679,10 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00132", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.7020218, 41.9129729], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00132" },
+      "properties": {
+        "postalCode": "00132",
+        "name": "Borghesiana, Lunghezza, Torre Angela, Torre Gaia"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -3808,17 +3794,10 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00133", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.6331035, 41.8620235], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00134", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.5527505, 41.7632522], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00134" },
+      "properties": {
+        "postalCode": "00134",
+        "name": "Castel di Leva, Torricola"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -3930,25 +3909,10 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00135", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.4208642, 41.949002], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00136", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.440924, 41.9199306], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00137", "marker-color": "#e70d0d" },
-      "geometry": {
-        "coordinates": [12.5611662, 41.95173339999999],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00137" },
+      "properties": {
+        "postalCode": "00137",
+        "name": "Casal Boccone, Monte Sacro Alto, Ponte Mammolo, San Basilio, Settecamini, Tor San Giovanni"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -4060,37 +4024,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00138", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.5183307, 41.9919908], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00139", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.5642261, 41.9869142], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00142", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.4896554, 41.833878], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00143", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.4860338, 41.8112345], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00144", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.44379, 41.8193358], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00145", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.4853547, 41.8551485], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00145" },
+      "properties": { "postalCode": "00145", "name": "Ostiense" },
       "geometry": {
         "coordinates": [
           [
@@ -4139,12 +4073,10 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00146", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.469587, 41.8581057], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00146" },
+      "properties": {
+        "postalCode": "00146",
+        "name": "Ostiense, Quartiere Portuense, San Saba"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -4225,12 +4157,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00147", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.5011247, 41.8521889], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00147" },
+      "properties": { "postalCode": "00147", "name": "Ardeatino, Ostiense" },
       "geometry": {
         "coordinates": [
           [
@@ -4308,17 +4235,10 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00148", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.3807553, 41.8115387], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00149", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.4523883, 41.8551019], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00149" },
+      "properties": {
+        "postalCode": "00149",
+        "name": "Quartiere Gianicolense, Quartiere Portuense, Suburbio Portuense"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -4395,11 +4315,6 @@
         ],
         "type": "Polygon"
       }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00150", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.4963655, 41.9027835], "type": "Point" }
     },
     {
       "type": "Feature",
@@ -4515,12 +4430,10 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00151", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.440924, 41.8661445], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00151" },
+      "properties": {
+        "postalCode": "00151",
+        "name": "Quartiere Gianicolense, Suburbio Gianicolense"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -4589,12 +4502,10 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00152", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.4581209, 41.8789317], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00152" },
+      "properties": {
+        "postalCode": "00152",
+        "name": "Quartiere Aurelio, Quartiere Gianicolense, Suburbio Gianicolense"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -4653,12 +4564,10 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00153", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.4753205, 41.8819321], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00153" },
+      "properties": {
+        "postalCode": "00153",
+        "name": "Trastevere, Testaccio, San Saba, Quartiere Portuense"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -4735,12 +4644,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00154", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.4867883, 41.8708892], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00154" },
+      "properties": { "postalCode": "00154", "name": "Ostiense" },
       "geometry": {
         "coordinates": [
           [
@@ -4803,12 +4707,10 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00155", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.5871807, 41.9062372], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00155" },
+      "properties": {
+        "postalCode": "00155",
+        "name": "Collatino, Alessandrino, Tor Cervara, Acqua Vergine, Lunghezza, Tor Sapienza"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -4920,15 +4822,10 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00156", "marker-color": "#e70d0d" },
-      "geometry": {
-        "coordinates": [12.5699643, 41.93257500000001],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00156" },
+      "properties": {
+        "postalCode": "00156",
+        "name": "Monte Sacro, Monte Sacro Alto, San Basilio, Ponte Mammolo, Tor Cervara"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -5040,12 +4937,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00157", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.5384077, 41.9140834], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00157" },
+      "properties": { "postalCode": "00157", "name": "Pietralata" },
       "geometry": {
         "coordinates": [
           [
@@ -5108,12 +5000,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00158", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.5556193, 41.9219514], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00158" },
+      "properties": { "postalCode": "00158", "name": "Pietralata" },
       "geometry": {
         "coordinates": [
           [
@@ -5191,12 +5078,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00159", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.5441446, 41.9036749], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00159" },
+      "properties": { "postalCode": "00159", "name": "Tiburtino, Collatino" },
       "geometry": {
         "coordinates": [
           [
@@ -5284,11 +5166,6 @@
         ],
         "type": "Polygon"
       }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00160", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.4963655, 41.9027835], "type": "Point" }
     },
     {
       "type": "Feature",
@@ -5404,12 +5281,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00161", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.5154628, 41.9117308], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00161" },
+      "properties": { "postalCode": "00161", "name": "Nomentano" },
       "geometry": {
         "coordinates": [
           [
@@ -5463,12 +5335,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00162", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.5255006, 41.9167312], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00162" },
+      "properties": { "postalCode": "00162", "name": "Nomentano" },
       "geometry": {
         "coordinates": [
           [
@@ -5529,20 +5396,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00163", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.3864842, 41.8647615], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00164", "marker-color": "#e70d0d" },
-      "geometry": {
-        "coordinates": [12.4294608, 41.87718410000001],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00164" },
+      "properties": { "postalCode": "00164", "name": "Suburbio Gianicolense" },
       "geometry": {
         "coordinates": [
           [
@@ -5638,25 +5492,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00165", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.4237297, 41.8973732], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00166", "marker-color": "#e70d0d" },
-      "geometry": {
-        "coordinates": [12.3234816, 41.90586039999999],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00167", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.4294608, 41.9114118], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00167" },
+      "properties": { "postalCode": "00167", "name": "Primavalle" },
       "geometry": {
         "coordinates": [
           [
@@ -5734,12 +5570,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00168", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.409403, 41.9209393], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00168" },
+      "properties": { "postalCode": "00168", "name": "Primavalle" },
       "geometry": {
         "coordinates": [
           [
@@ -5833,15 +5664,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00169", "marker-color": "#e70d0d" },
-      "geometry": {
-        "coordinates": [12.5900503, 41.86925610000001],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00169" },
+      "properties": { "postalCode": "00169", "name": "Torre Spaccata" },
       "geometry": {
         "coordinates": [
           [
@@ -5929,11 +5752,6 @@
         ],
         "type": "Polygon"
       }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00170", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.4963655, 41.9027835], "type": "Point" }
     },
     {
       "type": "Feature",
@@ -6049,12 +5867,10 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00171", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.5670952, 41.8913585], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00171" },
+      "properties": {
+        "postalCode": "00171",
+        "name": "Prenestino-Labicano, Prenestino-Centocelle"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -6108,12 +5924,10 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00172", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.5728335, 41.8809451], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00172" },
+      "properties": {
+        "postalCode": "00172",
+        "name": "Prenestino-Labicano, Prenestino-Centocelle, Alessandrino"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -6189,12 +6003,10 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00173", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.59292, 41.8420359], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00173" },
+      "properties": {
+        "postalCode": "00173",
+        "name": "Don Bosco, Torre Maura, Torrenova, Capannelle"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -6306,12 +6118,10 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00174", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.5556193, 41.8535089], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00174" },
+      "properties": {
+        "postalCode": "00174",
+        "name": "Tuscolano, Don Bosco, Appio-Claudio"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -6380,12 +6190,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00175", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.5613571, 41.8626564], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00175" },
+      "properties": { "postalCode": "00175", "name": "Don Bosco" },
       "geometry": {
         "coordinates": [
           [
@@ -6457,12 +6262,10 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00176", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.532671, 41.8902789], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00176" },
+      "properties": {
+        "postalCode": "00176",
+        "name": "Prenestino-Labicano, Tuscolano"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -6527,12 +6330,10 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00177", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.5498818, 41.8883759], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00177" },
+      "properties": {
+        "postalCode": "00177",
+        "name": "Prenestino-Labicano, Collatino"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -6604,21 +6405,6 @@
         ],
         "type": "Polygon"
       }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00178", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.5412761, 41.8330778], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00179", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.5154628, 41.8677293], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00180", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.4963655, 41.9027835], "type": "Point" }
     },
     {
       "type": "Feature",
@@ -6734,15 +6520,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00181", "marker-color": "#e70d0d" },
-      "geometry": {
-        "coordinates": [12.532671, 41.87561059999999],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00181" },
+      "properties": { "postalCode": "00181", "name": "Tuscolano" },
       "geometry": {
         "coordinates": [
           [
@@ -6804,12 +6582,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00182", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.5211986, 41.8817674], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00182" },
+      "properties": { "postalCode": "00182", "name": "Tuscolano" },
       "geometry": {
         "coordinates": [
           [
@@ -6861,12 +6634,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00183", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.5082935, 41.8795238], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00183" },
+      "properties": { "postalCode": "00183", "name": "Appio-Latino" },
       "geometry": {
         "coordinates": [
           [
@@ -6909,12 +6677,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00184", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.4982572, 41.889187], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00184" },
+      "properties": { "postalCode": "00184", "name": "Monti, Castro Pretorio" },
       "geometry": {
         "coordinates": [
           [
@@ -6978,12 +6741,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00185", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.5097274, 41.8977003], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00185" },
+      "properties": { "postalCode": "00185", "name": "Esquilino, Tiburtino" },
       "geometry": {
         "coordinates": [
           [
@@ -7061,12 +6819,10 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00186", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.4753205, 41.8966008], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00186" },
+      "properties": {
+        "postalCode": "00186",
+        "name": "Campo Marzio, Ponte, Parione, Regola, Sant'Eustachio, Pigna, Campitelli, Sant'Angelo"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -7136,29 +6892,6 @@
         ],
         "type": "Polygon"
       }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00187", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.4867883, 41.905116], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00188", "marker-color": "#e70d0d" },
-      "geometry": {
-        "coordinates": [12.4724537, 42.03607119999999],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00189", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.4495221, 41.9800429], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00190", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.4963655, 41.9027835], "type": "Point" }
     },
     {
       "type": "Feature",
@@ -7274,15 +7007,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00191", "marker-color": "#e70d0d" },
-      "geometry": {
-        "coordinates": [12.4781873, 41.94271029999999],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00191" },
+      "properties": { "postalCode": "00191", "name": "Tor di Quinto" },
       "geometry": {
         "coordinates": [
           [
@@ -7382,17 +7107,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00192", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.4595541, 41.9093326], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00193", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.4652871, 41.9062588], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00193" },
+      "properties": { "postalCode": "00193", "name": "Borgo, Prati" },
       "geometry": {
         "coordinates": [
           [
@@ -7433,12 +7148,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00194", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.4963655, 41.9027835], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00194" },
+      "properties": { "postalCode": "00194", "name": "Della Vittoria" },
       "geometry": {
         "coordinates": [
           [
@@ -7550,27 +7260,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00195", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.4581209, 41.9180433], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00196", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.469587, 41.9314429], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00197", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.4867883, 41.9246645], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00198", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.5039922, 41.9178828], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00198" },
+      "properties": { "postalCode": "00198", "name": "Salario, Trieste" },
       "geometry": {
         "coordinates": [
           [
@@ -7631,12 +7321,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "postalCode": "00199", "marker-color": "#e70d0d" },
-      "geometry": { "coordinates": [12.5097274, 41.9319083], "type": "Point" }
-    },
-    {
-      "type": "Feature",
-      "properties": { "postalCode": "00199" },
+      "properties": { "postalCode": "00199", "name": "Trieste" },
       "geometry": {
         "coordinates": [
           [
